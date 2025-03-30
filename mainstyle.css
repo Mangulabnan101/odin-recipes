@@ -1,0 +1,17 @@
+body {
+    background-color: wheat;
+    background-size: auto;
+    font-size: 16px;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(199, 138, 81);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.sakses,
+li {
+    background-color: red;
+    color:antiquewhite
+}
