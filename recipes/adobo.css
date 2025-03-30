@@ -1,0 +1,27 @@
+body {
+    background-color: #D8C3A5;
+    text-align: center;
+    color: #7B684F;
+}
+ul {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+}
+
+li {
+display: block;
+margin: 5px;
+}
+
+.container {
+    text-align: center;
+}
+h4 {
+    color: #CC7722;
+}
+
+a   {
+    color:	#E97451;
+}
