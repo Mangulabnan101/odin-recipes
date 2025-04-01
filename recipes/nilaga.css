@@ -4,9 +4,46 @@ body{
     text-align: center;
     color:#E67E22;
 }
-li {
-    display: block;
-}
+
 h1 {
     color: #A67C52;
+    border-bottom: 5px solid brown;
+    width: 250px;
+    height: 50px;
+    margin: 10px auto;
+}
+
+img {
+    border: 1px solid black;
+    width: 512px;
+    height: 512px;
+}
+
+h4.Ingredients {
+    border-bottom: 3px double rgb(69, 77, 35);
+    width: 150px;
+    height: auto;
+    margin: 10px auto;
+}
+
+h4.step {
+    border-bottom: 3px double rgb(69, 77, 35);
+    width:75px;
+    margin: auto;
+}
+
+ul {
+    list-style-type: none;
+    width: 300px;
+    height: 300px;
+    margin: 10px auto;
+    padding:0px;
+    border: 5px solid burlywood;
+}
+
+ol {
+    border: 5px solid burlywood;
+    width: 350px;
+    padding: 5px 5px 5px 25px;
+    margin: 10px auto;
 }
