@@ -3,25 +3,52 @@ body {
     text-align: center;
     color: #7B684F;
 }
-ul {
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0px;
+
+h1 {
+    border-bottom: 5px double grey;
+    width: 200px;
+    margin: 10px auto 10px auto;
 }
 
-li {
-display: block;
-margin: 5px ;
-}
 
-.container {
-    text-align: center;
-}
-h4 {
+
+h4.Ingredients {
     color: #CC7722;
+    border-bottom: 2px solid #7B684F;
+    margin: auto;
+    width:100px
+}
+h4.step {
+    color: #CC7722;
+    border-bottom: 2px solid #7B684F;
+    margin: auto;
+    width:200px
 }
 
 a   {
     color:	#E97451;
+    border-bottom: 1px solid brown;
+    border-top: 1px solid brown;
+}
+
+span {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    border: 5px double black;
+    margin: 10px auto 10px auto;
+    padding: 30px;
+    width: 240px;
+    height: 180px;
+}
+
+ol {
+    width: 300px;
+    height: 200px;
+    margin: 10px auto;
+    padding:20px;
+    border: 5px double black;
 }
